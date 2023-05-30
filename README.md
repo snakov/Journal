@@ -1,0 +1,2 @@
+# Journal
+Command Line Journaling 
